@@ -1,0 +1,3 @@
+name: KunServerTestPlugin
+version: ${project.version}
+main: com.gmail.abcqqqwpvp2.kunservertestplugin.KunServerTestPlugin
